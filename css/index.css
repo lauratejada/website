@@ -17,7 +17,10 @@ body {
     background-color: var(--app-bg-gray);
     color: var(--app-body-text-color);
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> main
 /* ------------------------------- */
 /* CSS Page Container              */
 /* ------------------------------- */
@@ -143,6 +146,7 @@ nav ul li a:hover {  /*  .nav-3bar i:hover  */
         display: none;
     }    
 }
+<<<<<<< HEAD
 
 /* ------------------------------- */
 /* HOME - Main                     */
@@ -234,3 +238,5 @@ section {
         width: 90%;
     }
 }
+=======
+>>>>>>> main
