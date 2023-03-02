@@ -1,0 +1,19 @@
+@import url(reset.css);
+
+:root {
+    --app-bg-gray: #fff;/* used */
+    --app-body-text-color: #4c4d4d; /* used */
+    --app-header-color: #12274e;  /* used */
+    --app-header-font-color: #fff; /* used */
+    --app-footer-color: #fff;  /* used */
+    --app-footer-font-color: #444; 
+    --app-button-color: #e83e8c;  /* used */
+    --app-button-font-color: #fff; /* used */
+    --app-button-hover-color: #fff; /* used */
+    --app-button-hover-font-color:  #e83e8c; /* used */
+}
+
+body {
+    background-color: var(--app-bg-gray);
+    color: var(--app-body-text-color);
+}
